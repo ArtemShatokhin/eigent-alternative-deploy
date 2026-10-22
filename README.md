@@ -69,4 +69,4 @@ The campaign site expands on this repository with sourced comparisons and setup 
 
 ## Get started
 
-Self-host is free, and managed Kortix Cloud starts at $40 per seat per month plus usage; current numbers are on the [Kortix pricing page](https://kortix.com/pricing). Start from one job on one host, then grow. Try [Kortix](https://kortix.com), read the [Kortix docs](https://kortix.com/docs), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Self-host is free, and managed Kortix Cloud starts on a free plan with 500 credits a month; paid credits run at 100 per dollar, $50 for 5,000 a month, with unlimited members and no per-seat charge. Current numbers are on the [Kortix pricing page](https://kortix.com/pricing). Start from one job on one host, then grow. Try [Kortix](https://kortix.com), read the [Kortix docs](https://kortix.com/docs), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/suna).
